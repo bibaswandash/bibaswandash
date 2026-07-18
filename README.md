@@ -2,11 +2,11 @@
 
 **People & Talent leader who brings an engineer's mindset to HR.**
 
-For 21 years I've partnered with senior technology leaders at **Microsoft** and
+I've partnered with senior technology leaders at **Microsoft** and
 **GE** to turn business strategy into organizational outcomes — through org design,
 workforce strategy, succession, and an AI-forward approach to the People function.
 
-🔹 **Currently:** Senior HR Business Partner — Engineering - AI @ Microsoft
+🔹 **Currently:** HR Leader (HR Business Partner) — Engineering - AI @ Microsoft
 🔹 **I work at the intersection of:** People strategy × Organizational design × AI
 🔹 **I build:** practical tools that help leaders make better people decisions —
    including the *Org Modeler*, an AI-assisted tool for designing future-state
