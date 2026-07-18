@@ -7,11 +7,15 @@ I've partnered with senior technology leaders at **Microsoft** and
 workforce strategy, succession, and an AI-forward approach to the People function.
 
 🔹 **Currently:** HR Leader (HR Business Partner) — Engineering - AI @ Microsoft
+
 🔹 **I work at the intersection of:** People strategy × Organizational design × AI
+
 🔹 **I build:** practical tools that help leaders make better people decisions —
    including the *Org Modeler*, an AI-assisted tool for designing future-state
    organizations and planning the change to get there.
+   
 🔹 **Certified executive coach:** Hogan Assessor | NeuroLeadership (Brain-Based Coaching)
+
 🔹 **Background:** MBA - Operations Management & Info Systems + HRM (XIMB) · Industrial Engineering & Management (RV College of Engineering)
 
 **What I care about:** building high-performing, inclusive organizations — and
